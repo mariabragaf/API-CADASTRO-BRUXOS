@@ -1,0 +1,24 @@
+{
+  "name": "api-cadastro-bruxos",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "cls && nodemon server.js"
+  },
+  "keywords": [
+  "cadastro",
+  "SENAI", 
+  "DS", 
+  "Bruxos", 
+  "BACKEND"],
+  "author": "Maria Eduarda Braga",
+  "license": "MIT",
+  "description": "atividade Backend – API “Cadastro de Bruxos de Hogwarts",
+  "dependencies": {
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
