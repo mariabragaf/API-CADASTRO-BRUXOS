@@ -1,4 +1,4 @@
-export const bruxos = [
+export const cadastro = [
     { id: 1, 
      nome:"Harry Potter",
      idade: 17,
@@ -29,4 +29,4 @@ export const bruxos = [
       casa: "Corvinal" },
 ];   
 
-export default bruxos;
+export default cadastro;
